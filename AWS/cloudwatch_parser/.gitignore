@@ -1,3 +1,10 @@
+# Py virtual env
 .venv/
+
+# Py cache files
 __pycache__/
 *.pyc
+
+# Sensitive files
+secrets.yml
+password.*
